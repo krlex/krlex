@@ -1,7 +1,7 @@
 ### About Me 
 -----
 
-<img align="right" alt="GIF" src="./coder.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./coder.gif" width="400" height="320" />
 
 
 ![](https://github-readme-stats.vercel.app/api?username=krlex&show_icons=true)
