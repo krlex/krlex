@@ -38,8 +38,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>Vagrant</center></b></span> 
+<img height=65px src="https://cdn.imgbin.com/18/23/12/imgbin-vagrant-hashicorp-logo-open-source-software-brand-vagrant-6buUWzCnpRkhsXxkLKwT7PSCE.jpg"> 
 </td>
 
 <td align="center" width="20%">
@@ -83,11 +83,13 @@
  <span><b><center>CBSD</center></b></span>
  <img height=65px src="https://avatars.githubusercontent.com/u/19972803?s=200&v=4"> 
  </td>
+ </tr>
+ 
 </tbody>
 </table>
 
-
 -----
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
  
