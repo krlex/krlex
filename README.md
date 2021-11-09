@@ -1,10 +1,10 @@
 # About Me 
 -----
-<div align="right">
+<div align="center">
  <img height="200" height="160" align="right" alt="GIF" src="./coder.gif" width="400" height="320" />
 </div>
 
-<div align="left">
+<div align="center">
  <img height="200" height="160" src="https://github-readme-stats.vercel.app/api?username=krlex&show_icons=true"> 
 </div>
 
