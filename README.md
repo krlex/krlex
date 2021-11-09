@@ -1,7 +1,7 @@
 # About Me 
 -----
 <div align="right">
- <img align="right" alt="GIF" src="./coder.gif" width="400" height="320" />
+ <img height="200" height="160" align="right" alt="GIF" src="./coder.gif" width="400" height="320" />
 </div>
 
 <div align="center">
