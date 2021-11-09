@@ -13,23 +13,6 @@
 </div>
 
 -----
-<h3 align="center">Connect with me:</h3>
-<div align="center">
- 
-  <p align= "center"> 
-   
-  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krlex/)
-  
-  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krletron/)
-  
-  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xkrle)
-  
-  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krle@tilda.center)
-  
-  </p>
-</div>
-
------
 
 ## Tech Stack:
 
@@ -86,6 +69,39 @@
 <img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
 </td>
 </tr>
-
+<tr>
+ <td align="center" width="20%">
+ <span><b><center>FreeBSD System Administrator</center></b></span>
+ <img height=65px src="https://icon-library.com/images/freebsd-icon/freebsd-icon-13.jpg"> 
+ </td>
+ 
+ <td align="center" width="20%">
+ <span><b><center>Apache</center></b></span>
+ <img height=65px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_logo_icon_168630.png"> 
+ </td>
+ <td align="center" width="20%">
+ <span><b><center>CBSD</center></b></span>
+ <img height=65px src="https://avatars.githubusercontent.com/u/19972803?s=200&v=4"> 
+ </td>
 </tbody>
 </table>
+
+
+-----
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+ 
+  <p align= "center"> 
+   
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krlex/)
+  
+  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krletron/)
+  
+  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xkrle)
+  
+  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krle@tilda.center)
+  
+  </p>
+</div>
+
+-----
