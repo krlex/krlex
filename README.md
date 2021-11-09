@@ -1,4 +1,4 @@
-### About Me 
+# About Me 
 -----
 
 <img align="right" alt="GIF" src="./coder.gif" width="400" height="320" />
@@ -26,7 +26,7 @@
 
 -----
 
-# Tech Stack:
+## Tech Stack:
 
 <br>
 <table>
@@ -81,6 +81,5 @@
 <img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
 </td>
 </tr>
-
 </tbody>
 </table>
