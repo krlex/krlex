@@ -7,14 +7,6 @@
  <img height="200" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlex&layout=compact"> 
 </div>
 
-<div align="center">
- <img height="200" height="160" src="https://github-readme-stats.vercel.app/api?username=krlex&show_icons=true"> 
-</div>
-
-<div align="center">
- <img height="200" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlex&layout=compact"> 
-</div>
-
 -----
 
 ## Tech Stack:
