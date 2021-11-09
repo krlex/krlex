@@ -1,11 +1,16 @@
 # About Me 
 -----
+<div align="right">
+ <img align="right" alt="GIF" src="./coder.gif" width="400" height="320" />
+</div>
 
-<img align="right" alt="GIF" src="./coder.gif" width="400" height="320" />
+<div align="center">
+ <img height="200" height="160" src="https://github-readme-stats.vercel.app/api?username=krlex&show_icons=true"> 
+</div>
 
-
-![](https://github-readme-stats.vercel.app/api?username=krlex&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krlex&layout=compact)
+<div align="center">
+ <img height="200" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlex&layout=compact"> 
+</div>
 
 -----
 <h3 align="center">Connect with me:</h3>
@@ -29,9 +34,9 @@
 ## Tech Stack:
 
 <br>
-<table>
+<table align="center">
 <tbody>
- <tr>
+<tr>
 <td align="center" width="20%">
 <span><b><center>Ansible</center></b></span> 
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
