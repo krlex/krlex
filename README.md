@@ -65,6 +65,7 @@
 </td>
 </tr>
 
+<tr>
 <td align="center" width="20%">
 <span><b><center>Linux System Administration</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
@@ -74,12 +75,12 @@
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
-</tr>
 
 <td align="center" width="20%">
 <span><b><center>Nginx</center></b></span> 
 <img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
 </td>
 </tr>
+
 </tbody>
 </table>
