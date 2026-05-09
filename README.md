@@ -40,80 +40,80 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Vagrant</center></b></span> 
-<img height=65px src="https://cdn.imgbin.com/18/23/12/imgbin-vagrant-hashicorp-logo-open-source-software-brand-vagrant-6buUWzCnpRkhsXxkLKwT7PSCE.jpg"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>GitLab CI</center></b></span> 
-<img height=65px src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<span><b><center>Linux</center></b></span> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>FreeBSD System Administrator</center></b></span>
-<img height=65px src="https://icon-library.com/images/freebsd-icon/freebsd-icon-13.jpg"> 
+<span><b><center>FreeBSD</center></b></span>
+<img height=65px src="https://cdn.simpleicons.org/freebsd/AB2B28"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Bash / Shell</center></b></span>
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>Nginx</center></b></span> 
-<img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIH7anJE9NEWrvLMKyxPFFABUGZZeunUluFQ&usqp=CAU"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Apache</center></b></span>
-<img height=65px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_logo_icon_168630.png"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -125,43 +125,39 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Prometheus</center></b></span>
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Grafana</center></b></span>
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Grafana_icon.svg"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>PostgreSQL</center></b></span>
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>MySQL</center></b></span>
-<img height=65px src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>MongoDB</center></b></span>
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> 
+<img height=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Let's Encrypt</center></b></span>
-<img height=65px src="https://letsencrypt.org/images/le-logo-wide.svg"> 
+<img height=65px src="https://cdn.simpleicons.org/letsencrypt/003A70"> 
 </td>
 </tr>
 
 </tbody>
 </table>
-
-# 🎓 Education
-
-**Technical School** — High School Diploma (2001 — 2004)
 
 ## ⚡ Github Stats
 
