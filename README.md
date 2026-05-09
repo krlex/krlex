@@ -163,7 +163,7 @@
 
 ![Krstan Vještica's Streak](https://streak-stats.demolab.com/?user=krlex&theme=dark)
 
-![Krstan Vještica's Trophies](https://github-profile-trophy.vercel.app/?username=krlex&theme=onedark&column=7&margin-w=10&margin-h=10)
+![Krstan Vještica's Trophies](https://github-profile-trophy.vercel.app/?username=krlex&theme=onedark&column=7&margin-w=10&margin-h=10&hide=Issues,PullRequest,Reviews,Commits,Followers)
 
 ### 🔗 Let's Connect
 
