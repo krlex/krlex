@@ -161,7 +161,9 @@
 
 ## ⚡ Github Stats
 
-![Krstan Vještica's Github Stats](https://github-readme-stats.vercel.app/api?username=krlex&theme=dark)
+![Krstan Vještica's Streak](https://streak-stats.demolab.com/?user=krlex&theme=dark)
+
+![Krstan Vještica's Trophies](https://github-profile-trophy.vercel.app/?username=krlex&theme=onedark&column=7&margin-w=10&margin-h=10)
 
 ### 🔗 Let's Connect
 
